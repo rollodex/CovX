@@ -1,0 +1,2 @@
+# CovX
+prediction market
